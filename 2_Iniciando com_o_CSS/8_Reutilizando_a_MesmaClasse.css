@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+}
+
+.tipo1 {
+    color: rgb(77, 75, 75);
+
+}
+
+.link_ {
+    font-size: 30px;
+}

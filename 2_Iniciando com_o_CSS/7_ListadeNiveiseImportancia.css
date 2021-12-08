@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+}
+
+.lista, .lista2{
+    list-style-position: inside;
+    margin-left: 20px;
+}
+
+.lista li, .lista2 li {
+    color: #4b4b4b;
+    font-size: 14px;
+    margin-top: 10px;
+    
+}
+
+.lista > .item3, .lista2 > .item3{
+    color: red;
+    font-weight: bold;
+}

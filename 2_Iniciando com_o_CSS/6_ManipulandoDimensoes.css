@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+/*Meu comentario de teste
+*
+*
+*/
+
+.artigo {
+    width: 100px;
+    margin: 40px auto;
+    height: 300px;
+    background-color: #ccc;
+    text-align: center;
+    padding: 2px;
+}
+
+.artigo h1{
+    color: #069;
+    font-size: 23px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.artigo p {
+    font-size: 17px;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: bold;
+    margin: 12px 0;
+    line-height: 40px;
+}
+

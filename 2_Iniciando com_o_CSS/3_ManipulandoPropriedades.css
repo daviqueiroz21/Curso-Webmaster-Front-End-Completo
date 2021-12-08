@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}/*Zerando a pagina*/
+
+nav.menu {
+    width: 900px;
+    background-color: rgba(255, 0, 0, 0.288);
+    margin: 0 auto;
+    padding:20px ;
+    text-align: center;
+}
+.menu > a {
+    margin-left: 10px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 3px;
+}
